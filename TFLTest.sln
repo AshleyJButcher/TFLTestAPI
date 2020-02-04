@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFLTest", "TFLTest\TFLTest.csproj", "{39527F7E-4C86-4261-A380-B1800A842239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFLAPITests", "TFLAPITests\TFLAPITests.csproj", "{3ED1EB19-9EFF-4F57-BC53-A7606BEEB4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39527F7E-4C86-4261-A380-B1800A842239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39527F7E-4C86-4261-A380-B1800A842239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39527F7E-4C86-4261-A380-B1800A842239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39527F7E-4C86-4261-A380-B1800A842239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED1EB19-9EFF-4F57-BC53-A7606BEEB4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED1EB19-9EFF-4F57-BC53-A7606BEEB4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED1EB19-9EFF-4F57-BC53-A7606BEEB4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED1EB19-9EFF-4F57-BC53-A7606BEEB4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B106E970-3D80-4DD3-81DC-CED9EFA893F4}
+	EndGlobalSection
+EndGlobal
